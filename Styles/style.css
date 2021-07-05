@@ -1,0 +1,29 @@
+#headline{
+    border: 3px seagreen solid;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    font-size: 250%;
+}
+#slogan{
+    border: 3px seagreen solid;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+#hr-1st{
+    
+    width: 60%;
+    margin-bottom: 60px;
+}
+#about-me{
+    border: 2px seagreen solid;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+#about-me-para{
+    border: 2px seagreen solid;
+    width: 60%;
+    margin: auto;
+}
